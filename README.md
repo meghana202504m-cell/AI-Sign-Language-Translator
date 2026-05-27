@@ -51,25 +51,23 @@ The system captures live video from the webcam, detects hand landmarks using Med
 1. Hand Detection
 2. Detects hand landmarks dynamically
 3. Displays gesture label on screen
+
    
 
 🔮 Future Enhancements
 
+
 🚀 Full A–Z sign language recognition
-
 🚀 Sentence formation from gestures
-
 🚀 Voice output using Text-to-Speech
-
 🚀 Deep Learning based gesture classification
-
 🚀 Mobile application deployment
-
 🚀 Multi-language support
 
 
 
 📖 Learning Outcomes
+
 
 Through this project, we learned:
 
