@@ -36,6 +36,7 @@ The system captures live video from the webcam, detects hand landmarks using Med
 | NumPy | Numerical Computation |
 | VS Code | Development Environment |
 
+
 🧠 How It Works
 
 1. Webcam captures live video
@@ -43,6 +44,7 @@ The system captures live video from the webcam, detects hand landmarks using Med
 3. MediaPipe detects hand landmarks
 4. Gesture recognition logic identifies signs
 5. Detected sign is displayed on screen in real time
+   
 
 📸 Output
 
@@ -54,11 +56,17 @@ The system captures live video from the webcam, detects hand landmarks using Med
 🔮 Future Enhancements
 
 🚀 Full A–Z sign language recognition
+
 🚀 Sentence formation from gestures
+
 🚀 Voice output using Text-to-Speech
+
 🚀 Deep Learning based gesture classification
+
 🚀 Mobile application deployment
+
 🚀 Multi-language support
+
 
 
 📖 Learning Outcomes
@@ -72,7 +80,4 @@ Through this project, we learned:
 5. OpenCV and MediaPipe integration
 6. AI-based accessibility solutions
 
-⭐ Acknowledgements
-OpenCV Community
-MediaPipe by Google
-Python Developers
+
