@@ -1,4 +1,4 @@
-# 🤟 AI Sign Language Translator
+# AI Sign Language Translator
 
 A real-time AI-based Sign Language Translator developed using **Python**, **OpenCV**, and **MediaPipe**.  
 This project detects hand gestures through a webcam and translates them into sign language characters in real time.
