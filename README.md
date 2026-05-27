@@ -57,16 +57,18 @@ The system captures live video from the webcam, detects hand landmarks using Med
 🔮 Future Enhancements
 
 
-🚀 Full A–Z sign language recognition
-🚀 Sentence formation from gestures
-🚀 Voice output using Text-to-Speech
-🚀 Deep Learning based gesture classification
-🚀 Mobile application deployment
-🚀 Multi-language support
+1. Full A–Z sign language recognition
+2. Sentence formation from gestures
+3. Voice output using Text-to-Speech
+4. Deep Learning based gesture classification
+5. Mobile application deployment
+6. Multi-language support
+
 
 
 
 📖 Learning Outcomes
+
 
 
 Through this project, we learned:
